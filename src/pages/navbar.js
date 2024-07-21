@@ -1,12 +1,6 @@
-import React, {useState} from 'react';
-import { Link } from 'react-scroll';
+import React from 'react';
 
 const Navbar = () => {
-  const [isOpen, setIsOpen] = useState(false);
-
-  const toggleMenu = () => {
-    setIsOpen(!isOpen);
-  };
 
   return (
     <div className='navbar'>

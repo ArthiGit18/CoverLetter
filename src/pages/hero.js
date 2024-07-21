@@ -2,7 +2,6 @@ import React, { useState, useEffect } from 'react';
 import GitHubIcon from '@mui/icons-material/GitHub';
 import InstagramIcon from '@mui/icons-material/Instagram';
 import LinkedInIcon from '@mui/icons-material/LinkedIn';
-import CallIcon from '@mui/icons-material/Call';
 import WhatsAppIcon from '@mui/icons-material/WhatsApp';
 
 const Hero = () => {
